@@ -7,6 +7,5 @@
 *.iml
 out
 gen
-pom.xml
 sparsearray.iml
 target/
