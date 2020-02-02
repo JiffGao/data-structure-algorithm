@@ -9,3 +9,7 @@ out
 gen
 sparsearray.iml
 target/
+/bin/
+.project
+.classpath
+.settings
